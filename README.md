@@ -1,4 +1,4 @@
-# contexel-ai
+# Contexel
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,108 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-contexel-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://contexel.ai/
+Contexel provides AI memory for teams, enabling shared context across multiple AI assistants such as ChatGPT, Claude, Cursor, and others. Users can store information once and have it remembered by all connected AI tools, facilitating seamless collaboration within teams, families, or personal workflows. The platform emphasizes privacy, data portability, and easy integration via the MCP standard, allowing users to download their memories or manage access controls across shared workspaces.
+
+**Areas:** AI memory · Family workspace · Personal workspace · ChatGPT · Claude · Cursor
+
+## Contexel on APIs.io
+
+Everything profiled for Contexel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/contexel-ai/](https://apis.io/providers/contexel-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Contexel API](https://apis.io/apis/contexel-ai/contexel-api/) — Contexel provides AI memory APIs for storing and retrieving shared context across AI assistants. Documentation is at https://contexel.ai/docs.
+- [Contexel API](https://apis.io/apis/contexel-ai/contexel-ai-api/) — Contexel API as documented publicly: 3 operations. Contract generated from the documentation by API Evangelist (2026-11-04); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Contexel API Rules](https://apis.io/rules/contexel-ai/contexel-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Contexel Ai Domain Security](https://apis.io/security/contexel-ai/contexel-ai-domain-security/)
+- [Contexel Ai Trust Center](https://apis.io/security/contexel-ai/contexel-ai-trust-center/)
+- [Contexel Ai Vulnerability Disclosure](https://apis.io/security/contexel-ai/contexel-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Contexel Ai Plans Pricing](https://apis.io/plans/contexel-ai/contexel-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://contexel.ai/)
+- [Documentation](https://contexel.ai/docs)
+- [Pricing](https://contexel.ai/pricing)
+- [Changelog](https://contexel.ai/changelog)
+- [Security](https://contexel.ai/security)
+- [Compliance](https://contexel.ai/security)
+- [Terms of service](https://contexel.ai/terms)
+- [Privacy policy](https://contexel.ai/privacy)
+- [GitHub](https://github.com/contexel)
+
+## API Evangelist rating
+
+**Kin Score 50.6** — developing · rubric 0.25.0 · scored 2026-11-04
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 33.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 75.8 |
+
+**Agent readiness 31.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/contexel-ai/](https://apis.io/providers/contexel-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Contexel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/contexel-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
